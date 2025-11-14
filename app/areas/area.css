@@ -1,0 +1,16 @@
+.card-img-top {
+  object-fit: contain;
+  height: 200px;
+  width: 200px;
+}
+
+.card{
+    width: 200px;
+}
+
+.card-title {
+  max-width: 200px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
